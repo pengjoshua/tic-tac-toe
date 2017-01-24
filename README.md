@@ -2,19 +2,19 @@
 
 A command line tic-tac-toe game from scratch for two players.
 
-Expected features
+## Expected features
 ===============
 * Minimal UI that redraws the board and makes clear whose turn it is, each turn.
 * Players can submit moves (assume, admittedly unrealistically, that both players are sitting at the same keyboard).
 * Win detection - detect and display who won
 
-Bonus / stretch goals (any or all of the following)
+## Bonus / stretch goals (any or all of the following)
 =======================================
 * Structure your code such that the UI can be turned easily into a native mobile app (iOS say) without having to rewrite the core game logic.
 * Implement win detection with a functional rather than iterative style.
 * Between moves, rotate the board 90 degrees counter-clockwise. The moves "fall" due to "gravity", post-rotation.
 
-Implementation instructions
+## Implementation instructions
 =======================
 * Create the project from scratch. Don't just clone an existing project.
 * This includes writing configuration files for any dependencies and test framework setup.
@@ -28,6 +28,6 @@ Implementation instructions
 
 Try your best to work on this challenge without referring to outside resources. However, if you have to look things up online, go ahead. 
 
-Submission instructions
+## Submission instructions
 ====================
 Upon completion of your work, submit a link to the repository via this form.
